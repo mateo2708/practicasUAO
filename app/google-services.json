@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "618663653982",
+    "firebase_url": "https://practicas-uao.firebaseio.com",
+    "project_id": "practicas-uao",
+    "storage_bucket": "practicas-uao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618663653982:android:99a0db6a90aabbb6",
+        "android_client_info": {
+          "package_name": "com.proyecto.mtg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618663653982-9v91ffje3jmf0vq08966r4qbh0b7p1fh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "618663653982-9v91ffje3jmf0vq08966r4qbh0b7p1fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXl_uedFtxk6B_X0HY3ODULylJlR_m4mU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618663653982:android:07fe1aaaad010423",
+        "android_client_info": {
+          "package_name": "com.proyecto.mtg.practicas_uao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618663653982-ei5v6fsneoeium3uphvjvg704lf76ill.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.mtg.practicas_uao",
+            "certificate_hash": "408a43c1b9b9bd031c38e2723b9af2d8cd032c96"
+          }
+        },
+        {
+          "client_id": "618663653982-9v91ffje3jmf0vq08966r4qbh0b7p1fh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "618663653982-9v91ffje3jmf0vq08966r4qbh0b7p1fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXl_uedFtxk6B_X0HY3ODULylJlR_m4mU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618663653982-9v91ffje3jmf0vq08966r4qbh0b7p1fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
